@@ -1,7 +1,7 @@
 /* EDITE SOMENTE OS VALORES ENTRE ASPAS. Não coloque senhas ou tokens aqui. */
 window.BIO_CONFIG = {
   // Endereço identificado no nome da referência enviada. Confira antes de publicar.
-  sitePravo: "https://pravo.br",
+  sitePravo: "https://pravo.com.br",
 
   // cole seu telefone aqui — use código do país + DDD + número, apenas dígitos.
   // Exemplo de formato para o Brasil: 55 + DDD + número (sem espaços).
