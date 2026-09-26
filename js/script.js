@@ -7,7 +7,7 @@
   // Use URLs completas começando com https://
   // =====================================
   const LINKS = {
-    pravo: 'https://pravo.br',
+    pravo: 'https://pravo.com.br',
     whatsapp: 'SEU-LINK-AQUI',
     anastasia: 'SEU-LINK-AQUI'
   };
