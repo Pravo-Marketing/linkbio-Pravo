@@ -11,7 +11,7 @@
 window.JUAN_CONFIG = {
   links: {
     pravo: 'https://pravo.com.br',
-    whatsapp: 'https://wa.me/55SEUNUMERO?text=Ol%C3%A1%2C%20Juan%21%20Encontrei%20seu%20contato%20pelo%20link%20da%20bio%20e%20gostaria%20de%20conversar.',
+    whatsapp: 'https://wa.me/5511932534072?text=Ol%C3%A1%2C%20Juan%21%20Encontrei%20seu%20contato%20pelo%20link%20da%20bio%20e%20gostaria%20de%20conversar.',
     instagram: 'https://www.instagram.com/juanmillanfs',
     tiktok: 'https://www.tiktok.com/@juanmillanfs',
     youtube: 'https://www.youtube.com/@juanmillan-ads'
