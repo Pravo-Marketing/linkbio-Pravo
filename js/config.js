@@ -12,9 +12,9 @@ window.JUAN_CONFIG = {
   links: {
     pravo: 'https://pravo.com.br',
     whatsapp: 'SEU-LINK-AQUI',
-    instagram: 'SEU-LINK-AQUI',
-    tiktok: 'SEU-LINK-AQUI',
-    youtube: 'SEU-LINK-AQUI'
+    instagram: 'https://www.instagram.com/juanmillanfs',
+    tiktok: 'https://www.tiktok.com/@juanmillanfs',
+    youtube: 'https://www.youtube.com/@juanmillan-ads'
   },
 
   products: [
