@@ -19,7 +19,7 @@ window.JUAN_CONFIG = {
 
   products: [
     {
-      title: 'AnastasIA',
+      title: 'Em Breve',
       description: 'Da sua ideia à imagem. Crie com inteligência artificial.',
       label: 'Conhecer produto',
       url: 'SEU-LINK-AQUI'
