@@ -19,10 +19,17 @@ window.JUAN_CONFIG = {
 
   products: [
     {
-      title: 'Em Breve',
-      description: 'Da sua ideia à imagem. Crie com inteligência artificial.',
+      title: 'Personagens Realistas com IA',
+      description: 'Aprenda a transformar personagens em versões realistas com inteligência artificial.',
       label: 'Conhecer produto',
-      url: 'SEU-LINK-AQUI'
+      url: 'https://payment.ticto.app/O31DF6970'
+    }
+
+   ,{
+      title: 'Dê vida ao seu personagem',
+      description: 'Aprenda a colocar a mesma personagem em novas poses, roupas e ambientes, preservando sua identidade.',
+      label: 'Conhecer produto',
+      url: 'https://payment.ticto.app/OA058D3E3'
     }
 
     // Exemplo para um novo produto:
