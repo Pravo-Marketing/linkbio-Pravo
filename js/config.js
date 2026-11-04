@@ -14,10 +14,10 @@
 window.JUAN_CONFIG = {
   links: {
     pravo: 'https://pravo.com.br',
-    whatsapp: 'SEU-LINK-AQUI',
-    instagram: 'SEU-LINK-AQUI',
-    tiktok: 'SEU-LINK-AQUI',
-    youtube: 'SEU-LINK-AQUI'
+    whatsapp: 'https://wa.me/5511932534072?text=Ol%C3%A1%2C%20Juan%21%20Vim%20pela%20bio%20do%20seu%20Instagram%20e%20gostaria%20de%20saber%20mais%20sobre%20seus%20servi%C3%A7os%20e%20produtos%20digitais.',
+    instagram: 'https://www.instagram.com/juanmillanfs/',
+    tiktok: 'https://www.tiktok.com/@juanmillanfs',
+    youtube: 'https://youtube.com/@juanmillan-ads?si=oeZc_HcnRG0aOwrj'
   },
 
   products: [
@@ -27,7 +27,7 @@ window.JUAN_CONFIG = {
       image: 'assets/personagens-realistas.png',
       imageAlt: 'Capa de Personagens Realistas com IA: Megamente dividido entre versão animada e realista',
       label: 'Conhecer produto',
-      url: 'SEU-LINK-AQUI'
+      url: 'https://payment.ticto.app/O31DF6970'
     },
     {
       title: 'Dê vida ao seu personagem',
@@ -35,7 +35,7 @@ window.JUAN_CONFIG = {
       image: 'assets/de-vida-ao-personagem.png',
       imageAlt: 'Capa de Dê vida ao seu personagem: a mesma personagem em três poses e estilos diferentes',
       label: 'Conhecer produto',
-      url: 'SEU-LINK-AQUI'
+      url: 'https://payment.ticto.app/OA058D3E3'
     }
 
     // Exemplo para um novo produto:
